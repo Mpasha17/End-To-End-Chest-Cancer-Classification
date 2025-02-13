@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pasha/End-To-End-Chest-Cancer-Classification/mlruns/0/6d3f06ba33b34bafa2b9ff4938ef4c7c/artifacts
+end_time: 1739436023708
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d3f06ba33b34bafa2b9ff4938ef4c7c
+run_name: fortunate-seal-730
+run_uuid: 6d3f06ba33b34bafa2b9ff4938ef4c7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739436003333
+status: 3
+tags: []
+user_id: pasha
